@@ -1,0 +1,10 @@
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\bin\Release\MyProject.exe.config
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\bin\Release\MyProject.exe
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\bin\Release\MyProject.pdb
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Release\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Release\MyProject.Form1.resources
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Release\MyProject.Form2.resources
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Release\MyProject.Properties.Resources.resources
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Release\MyProject.csproj.GenerateResource.Cache
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Release\MyProject.exe
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Release\MyProject.pdb

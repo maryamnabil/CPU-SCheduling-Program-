@@ -1,0 +1,19 @@
+c:\users\dream\documents\visual studio 2012\Projects\MyProject\MyProject\bin\Debug\MyProject.exe.config
+c:\users\dream\documents\visual studio 2012\Projects\MyProject\MyProject\bin\Debug\MyProject.exe
+c:\users\dream\documents\visual studio 2012\Projects\MyProject\MyProject\bin\Debug\MyProject.pdb
+c:\users\dream\documents\visual studio 2012\Projects\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+c:\users\dream\documents\visual studio 2012\Projects\MyProject\MyProject\obj\Debug\MyProject.Form1.resources
+c:\users\dream\documents\visual studio 2012\Projects\MyProject\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+c:\users\dream\documents\visual studio 2012\Projects\MyProject\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+c:\users\dream\documents\visual studio 2012\Projects\MyProject\MyProject\obj\Debug\MyProject.exe
+c:\users\dream\documents\visual studio 2012\Projects\MyProject\MyProject\obj\Debug\MyProject.pdb
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\bin\Debug\MyProject.exe.config
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Debug\MyProject.exe
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Debug\MyProject.pdb
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Debug\MyProject.Form1.resources
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Debug\MyProject.Properties.Resources.resources
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Debug\MyProject.csproj.GenerateResource.Cache
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\bin\Debug\MyProject.exe
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\bin\Debug\MyProject.pdb
+C:\Users\Dream\Documents\Visual Studio 2012\Projects\MyProject - new\MyProject\obj\Debug\MyProject.Form2.resources
